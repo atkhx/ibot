@@ -1,0 +1,8 @@
+{
+  "chatID": 12345,
+  "botToken": "your bot token",
+  "schedule": "* * * * * *",
+  "parsePageURL": "https://localhost/index.html",
+  "parseImageRe": "<img\\s*src=\"(/i/s/0/[^.]+.png)\"\\s*",
+  "imageBaseURL": "https://localhost"
+}
